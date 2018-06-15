@@ -4,5 +4,5 @@ date: 2018-06-15T13:50:44+08:00
 
 ---
 
-![](/static/new2.jpg)
-![new](/static/img/new2.jpg)
+![](/images/new2.jpg)
+![new](/static/images/new2.jpg)
